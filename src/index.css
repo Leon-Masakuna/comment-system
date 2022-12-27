@@ -95,3 +95,9 @@
 .replies {
   margin-top: 20px;
 }
+
+.profile {
+  height: 45px;
+  width: 50px;
+  border-radius: 50%;
+}
